@@ -9,4 +9,3 @@ feature7
 feature 8
 blah
 feature2 branch
-feature2 branch
