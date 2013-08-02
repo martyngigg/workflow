@@ -12,3 +12,6 @@ feature2 branch
 
 feature3
 new_feature
+
+another feature
+
