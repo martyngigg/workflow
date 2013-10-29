@@ -16,3 +16,4 @@ new_feature
 another feature
 
 update on master
+update on release/3.0
