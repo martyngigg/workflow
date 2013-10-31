@@ -16,3 +16,5 @@ new_feature
 another feature
 
 update on master
+
+update 2 on master
