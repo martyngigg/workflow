@@ -1,1 +1,1 @@
-My commit
+My commit with release-next as default
